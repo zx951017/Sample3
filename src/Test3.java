@@ -6,6 +6,7 @@ public class Test3 {
 		System.out.println("aa");
 		//追加ステープ
 		System.out.println(123456);
+		//消してください
 		
 	}
 
